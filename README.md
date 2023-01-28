@@ -7,6 +7,15 @@ This is a fixed and updated version of this game (https://jodiehasashovel.itch.i
 
 You are a lazy cook, so you built a robot to help you serve the food. Too bad you were bad at math in school, because you couldn't program the ai correctly, so it keeps hitting objects and customers.
 
+![image](https://user-images.githubusercontent.com/68913917/215266883-40b5a197-d6e0-452a-aaab-dfd2c0847685.png)
+
+![image](https://user-images.githubusercontent.com/68913917/215266973-d40f3df8-e34a-4ab4-ba8a-7d48498f0fa6.png)
+
+![image](https://user-images.githubusercontent.com/68913917/215266980-162a9284-11d3-4ebe-80f4-b37eb5810ab3.png)
+
+![image](https://user-images.githubusercontent.com/68913917/215266996-6dc06119-64c0-45c6-99e4-759ee1a5f92f.png)
+
+
 # Stuff I added in this version
 
 * Waypoints
