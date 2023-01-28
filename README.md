@@ -14,6 +14,7 @@ This is a fixed and updated version of this game (https://jodiehasashovel.itch.i
 * Updated some graphics and text
 * Updated the engine
 * Fixed a crash issue when the robot clipped through walls on low end devices
+* Uncapped the fps. It now runs at your monitor's refresh rate
 
 # Credits
 
