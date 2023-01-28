@@ -3,6 +3,10 @@ Clean. Cook. Don't let your rating down.
 
 This is a fixed and updated version of this game (https://jodiehasashovel.itch.io/the-lazy-cook) that I made for a game jam.
 
+# Original Itch.io description
+
+You are a lazy cook, so you built a robot to help you serve the food. Too bad you were bad at math in school, because you couldn't program the ai correctly, so it keeps hitting objects and customers.
+
 # Stuff I added in this version
 
 * Waypoints
